@@ -1,8 +1,0 @@
-# Ignore files without extension (posix binaries)
-*
-!*.*
-!*/
-
-# Windows executables
-*.exe
-*.dll
